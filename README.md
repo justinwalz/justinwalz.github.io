@@ -1,4 +1,4 @@
 justinwalz.github.io
 ====================
 
-GitHub Pages Site
+![Hello World](http://blog.caplin.com/wp-content/uploads/HelloWorld.jpg)
