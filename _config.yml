@@ -61,7 +61,7 @@ plugins:
 author:
   name: 'Justin Walz'
   avatar: '/assets/images/bio-photo.jpg'
-  bio: 'Be kind, run hills, cycle gravel. Writer of software and lover of all things outdoors.'
+  bio: 'Be kind, run hills. Writer of software and lover of all things outdoors.'
   location: 'West Coast, USA'
   links:
     # - label: 'Website'
